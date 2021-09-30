@@ -5,4 +5,5 @@ In order to run the code on your local machine you need googleapis, nodemailer &
 ```javascript
 npm install nodemailer googleapis prompt-sync
 ```
+Then clone the git repo and use your own credentials from [http://console.cloud.google.com]
 
